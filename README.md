@@ -76,6 +76,7 @@ You can customize paths, commands, or add new features to make it smarter.
 
 
 📜 License
+
 This project is for educational and personal use. Feel free to fork and improve it!
 
 Let me know if you want this as a .md file or want to make a GUI on top of it next!
